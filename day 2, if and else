@@ -1,0 +1,19 @@
+#Using if#
+#if [condition] :$
+#Must have colon after condition#
+
+#Using else#
+#needs to be one indent less than the conditions#
+
+print('Hello, what is your name?')
+Name=input()
+if Name=='Richard':
+    print('Hello, Richard')
+    print('Please type in your password')
+    password=input()
+if password=='Richard':
+    print('Access Granted')
+else:
+    print('You are not Richard, who are you?')
+
+#if and else on the same indentation, and it needs one indentation for the condition underneath#
