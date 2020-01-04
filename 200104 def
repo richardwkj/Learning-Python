@@ -1,0 +1,8 @@
+#to create a function you can start a block with 'def'
+#after, indent and write return()
+
+def [function name](given this variable)
+  function function
+  function function #so here you write your function, define variables etc#
+  return(the output function)
+#hope it works and execute 
